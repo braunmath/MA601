@@ -13,6 +13,18 @@
     <!-- Include chapters -->
     <xi:include href="./intro.ptx" />
     <xi:include href="./responding.ptx" />
+    <xi:include href="./grading.ptx" />
+    <xi:include href="./classmanage1.ptx" />
+    <xi:include href="./policies.ptx" />
+    <xi:include href="./assessment.ptx" />
+    <xi:include href="./createhomework.ptx" />
+    <xi:include href="./classmanage2.ptx" />
+    <xi:include href="./mckt.ptx" />
+    <xi:include href="./ai.ptx" />
+    <xi:include href="./supportiveclassrooms.ptx" />
+    <xi:include href="./teachingstatements.ptx" />
+    <xi:include href="./statementworkshop.ptx" />
+    <xi:include href="./finaldiscussion.ptx" />
 
 
     <!-- Include backmatter -->
