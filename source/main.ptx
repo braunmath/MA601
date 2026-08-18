@@ -26,7 +26,6 @@
     <xi:include href="./statementworkshop.ptx" />
     <xi:include href="./finaldiscussion.ptx" />
 
-
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
