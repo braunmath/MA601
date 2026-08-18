@@ -7,7 +7,16 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "1",
   "title": "Intro",
-  "body": " Intro  TO COMPLETE.  "
+  "body": " Intro  These are the course notes for the class MA 601, Teaching College Mathematics, at the University of Kentucky. This course is required for all new graduate students in Mathematics who are, or might in the future be, supported by a teaching assistantship. There are three components to this course:   Weekly class meetings, Mondays at 4pm.    Observations of your teaching by the MA 601 instructor.    Four short written reflections and a teaching statement.     The goal of this class is to introduce you to fundamental ideas and best practices in the following four areas:   classroom teaching practices,    assessment of student work,    tutoring practices, and    course design principles.   As a new TA in Mathematics, your primary responsibility will be leading recitations. As a recitation leader, your work will focus on classroom teaching practices, tutoring practices, and some aspects of assessment. However, once you gain experience as a recitation leader you might have the opportunity to serve as a primary instructor for your own course. So, it is important that all TAs in the math department have a clear sense of all of the components of high-quality teaching.  The structure of these notes is that each chapter corresponds to one class meeting. For some class meetings there will be a pre-class activity assigned that you are expected to do beforehand. These are given at the beginning of each section, so you should look at the next section of the notes to see if there is anything you need to do in advance.  These course notes will contain a combination of explaining\/introducing teaching concepts and discussion activities that we will use during class. You should think of this as a basic overview of concepts. For a deeper investigation of best practices in teaching, I recommend reading the Instructional Practices Guide produced by the Mathematical Association of America, which you can download for free here: https:\/\/maa.org\/resource\/instructional-practices-guide\/    For class next week: read the course syllabus and complete the pre-class activity.    The activity for today is an unstructured Q and A session in preparation for your first day as a recitation leader tomorrow.   "
+},
+{
+  "id": "ch-intro-7",
+  "level": "2",
+  "url": "ch-intro.html#ch-intro-7",
+  "type": "Activity",
+  "number": "1.0.1",
+  "title": "",
+  "body": " The activity for today is an unstructured Q and A session in preparation for your first day as a recitation leader tomorrow.  "
 },
 {
   "id": "ch-responding",
