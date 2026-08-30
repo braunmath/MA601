@@ -106,7 +106,70 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "3",
   "title": "Grading Student Work",
-  "body": " Grading Student Work  TO COMPLETE.  "
+  "body": " Grading Student Work   Pre-class activity    Below are three solutions to the following problem: factor the polynomial .    For each of these solutions, assign them a grade on a scale of 0-10, where a 0 is for a blank answer and a 10 is full credit. You should use your own personal judgement regarding exactly what a 5 versus an 8 versus a 10 is, etc., for the score. This should be a quick \"gut decision\" about what you think the grade should be.     We will discuss these during class.      Solution A    Solution B    Solution C   Grading is a component of the larger topic of assessment, which we will discuss in more detail in a few weeks. For today, our focus will be on grading exam-style problems of the type you will see in MA 110 and MA 113. You will be responsible for assisting with the exam grading as a recitation leader, and it is good to get some guidance about this before you actually do it. So, you can think of today as \"microteaching for grading\".  I want to emphasize here something that will come up again and again in this course: teaching college mathematics requires much more than just good presentation\/lecture skills. Teaching well requires you to know how to:   present clearly at the board.    have good time management during each class session.    respond to student questions.    effectively manage small group classroom activities.    create and select homework and exam problems that are aligned with your course goals.    design your courses so that students receive feedback on their work before they are evaluated.    cultivate an inclusive classroom environment where students feel they belong    work effectively with students 1-1 and in groups during office hours.    respond to problems with students or colleagues professionally and in compliance with institutional and legal requirements.   and more.   Share the results of your pre-class grading with the people sitting near you. Did you each assign the same grades to all the solutions? Why or why not?    We will now take turns sharing with the class the issues you encountered regarding variation in scores.    In groups of 3-4, design a 10-point rubric to grade the factoring problem from the pre-class activity. You will need to determine how points are allocated among at least the following categories, possibly more:   Clear communication of solution techniques    Correct use of technique, even if there are minor errors    Incorrect use of technique    Presence of minor errors       Share the rubrics with the class and discuss\/critique them.    With your group, rewrite the problem so that it clearly aligns with the rubric you have designed. For example, are students allowed to use calculators? Do they need to state the name of a theorem or technique, or just use it? Etc.    Share with the entire class the resulting restatements of the problems.    If time allows: read the sample exercises from the MA 113 website: https:\/\/www.ms.uky.edu\/~ma113\/docs\/sample_examples.pdf    Write a grading rubric for each of these problems.    Consider the sample solutions given on the MA 113 website https:\/\/www.ms.uky.edu\/~ma113\/f.26\/#expectations with respect to your rubric. Does your rubric need revision after looking at those solutions?      The key takeaways from today are:   Every homework\/exam problem should have a clear goal. In other words, it should be measuring something specific that we want students to be able to do.    If student work is graded by assigning partial credit using points, then you must use a grading rubric. This helps your grading be more consistent and more equitable. Further, if a student challenges a grade, it gives a concrete basis from which to justify the grading.    If you update the rubric while you are grading, make sure to review the problems you have already graded, to make sure that you have been consistent for all students. This will often happen after you grade 5-10 student solutions, so you should plan on grading 5-10 solutions to see what issues arise, then revising your rubric accordingly.     "
+},
+{
+  "id": "ch-grading-8",
+  "level": "2",
+  "url": "ch-grading.html#ch-grading-8",
+  "type": "Activity",
+  "number": "3.0.1",
+  "title": "",
+  "body": " Share the results of your pre-class grading with the people sitting near you. Did you each assign the same grades to all the solutions? Why or why not?  "
+},
+{
+  "id": "ch-grading-9",
+  "level": "2",
+  "url": "ch-grading.html#ch-grading-9",
+  "type": "Activity",
+  "number": "3.0.2",
+  "title": "",
+  "body": " We will now take turns sharing with the class the issues you encountered regarding variation in scores.  "
+},
+{
+  "id": "ch-grading-10",
+  "level": "2",
+  "url": "ch-grading.html#ch-grading-10",
+  "type": "Activity",
+  "number": "3.0.3",
+  "title": "",
+  "body": " In groups of 3-4, design a 10-point rubric to grade the factoring problem from the pre-class activity. You will need to determine how points are allocated among at least the following categories, possibly more:   Clear communication of solution techniques    Correct use of technique, even if there are minor errors    Incorrect use of technique    Presence of minor errors     "
+},
+{
+  "id": "ch-grading-11",
+  "level": "2",
+  "url": "ch-grading.html#ch-grading-11",
+  "type": "Activity",
+  "number": "3.0.4",
+  "title": "",
+  "body": " Share the rubrics with the class and discuss\/critique them.  "
+},
+{
+  "id": "ch-grading-12",
+  "level": "2",
+  "url": "ch-grading.html#ch-grading-12",
+  "type": "Activity",
+  "number": "3.0.5",
+  "title": "",
+  "body": " With your group, rewrite the problem so that it clearly aligns with the rubric you have designed. For example, are students allowed to use calculators? Do they need to state the name of a theorem or technique, or just use it? Etc.  "
+},
+{
+  "id": "ch-grading-13",
+  "level": "2",
+  "url": "ch-grading.html#ch-grading-13",
+  "type": "Activity",
+  "number": "3.0.6",
+  "title": "",
+  "body": " Share with the entire class the resulting restatements of the problems.  "
+},
+{
+  "id": "ch-grading-14",
+  "level": "2",
+  "url": "ch-grading.html#ch-grading-14",
+  "type": "Activity",
+  "number": "3.0.7",
+  "title": "",
+  "body": " If time allows: read the sample exercises from the MA 113 website: https:\/\/www.ms.uky.edu\/~ma113\/docs\/sample_examples.pdf    Write a grading rubric for each of these problems.    Consider the sample solutions given on the MA 113 website https:\/\/www.ms.uky.edu\/~ma113\/f.26\/#expectations with respect to your rubric. Does your rubric need revision after looking at those solutions?     "
 },
 {
   "id": "ch-classmanage1",
