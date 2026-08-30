@@ -4,7 +4,201 @@
   <title>Grading Student Work</title>
 
   <p>
-    TO COMPLETE.
+  <alert>Pre-class activity</alert>
+  <ol>
+    <li>
+      <p>
+        Below are three solutions to the following problem: factor the polynomial <m>x^3-2x^2-5x+6</m>.
+      </p>
+    </li>
+    <li>
+      <p>
+        For each of these solutions, assign them a grade on a scale of 0-10, where a 0 is for a blank answer and a 10 is full credit.
+        You should use your own personal judgement regarding exactly what a 5 versus an 8 versus a 10 is, etc., for the score.
+        <alert>This should be a quick "gut decision" about what you think the grade should be.</alert>
+      </p>
+    </li>
+    <li>
+      <p>
+        We will discuss these during class.
+      </p>
+    </li>
+  </ol>
+  </p>
+
+  <image source="solutionA.png">
+    <shortdescription>Solution A</shortdescription>
+  </image>
+  <image source="solutionB.png">
+    <shortdescription>Solution B</shortdescription>
+  </image>
+  <image source="solutionC.png">
+    <shortdescription>Solution C</shortdescription>
+  </image>
+
+  <p>
+    Grading is a component of the larger topic of assessment, which we will discuss in more detail in a few weeks.
+    For today, our focus will be on grading exam-style problems of the type you will see in MA 110 and MA 113.
+    You will be responsible for assisting with the exam grading as a recitation leader, and it is good to get some guidance about this before you actually do it.
+    So, you can think of today as "microteaching for grading".
+  </p>
+
+  <p>
+    I want to emphasize here something that will come up again and again in this course: teaching college mathematics requires much more than just good presentation/lecture skills.
+    Teaching well requires you to know how to:
+    <ol>
+      <li>
+        <p>
+          present clearly at the board.
+        </p>
+      </li>
+      <li>
+        <p>
+          have good time management during each class session.
+        </p>
+      </li>
+      <li>
+        <p>
+          respond to student questions.
+        </p>
+      </li>
+      <li>
+        <p>
+          effectively manage small group classroom activities.
+        </p>
+      </li>
+      <li>
+        <p>
+          create and select homework and exam problems that are aligned with your course goals.
+        </p>
+      </li>
+      <li>
+        <p>
+          design your courses so that students receive feedback on their work before they are evaluated.
+        </p>
+      </li>
+      <li>
+        <p>
+          cultivate an inclusive classroom environment where students feel they belong
+        </p>
+      </li>
+      <li>
+        <p>
+          work effectively with students 1-1 and in groups during office hours.
+        </p>
+      </li>
+      <li>
+        <p>
+          respond to problems with students or colleagues professionally and in compliance with institutional and legal requirements.
+        </p>
+      </li>
+    </ol>
+    and more.
+  </p>
+
+  <activity>
+    <p>
+      Share the results of your pre-class grading with the people sitting near you.
+      Did you each assign the same grades to all the solutions? Why or why not?
+    </p>
+  </activity>
+
+  <activity>
+    <p>
+      We will now take turns sharing with the class the issues you encountered regarding variation in scores.
+    </p>
+  </activity>
+
+  <activity>
+    <p>
+      In groups of 3-4, design a 10-point rubric to grade the factoring problem from the pre-class activity.
+      You will need to determine how points are allocated among <alert>at least</alert> the following categories, possibly more:
+      <ol>
+        <li>
+          <p>
+            Clear communication of solution techniques
+          </p>
+        </li>
+        <li>
+          <p>
+            Correct use of technique, even if there are minor errors
+          </p>
+        </li>
+        <li>
+          <p>
+            Incorrect use of technique
+          </p>
+        </li>
+        <li>
+          <p>
+            Presence of minor errors
+          </p>
+        </li>
+      </ol>
+    </p>
+  </activity>
+
+  <activity>
+    <p>
+      Share the rubrics with the class and discuss/critique them.
+    </p>
+  </activity>
+
+  <activity>
+    <p>
+      With your group, rewrite the problem so that it clearly aligns with the rubric you have designed.
+      For example, are students allowed to use calculators? Do they need to state the name of a theorem or technique, or just use it? Etc.
+    </p>
+  </activity>
+
+  <activity>
+    <p>
+      Share with the entire class the resulting restatements of the problems.
+    </p>
+  </activity>
+
+  <activity>
+    <p>
+      If time allows: read the sample exercises from the MA 113 website: <url href="https://www.ms.uky.edu/~ma113/docs/sample_examples.pdf">https://www.ms.uky.edu/~ma113/docs/sample_examples.pdf</url>
+      <ol>
+        <li>
+          <p>
+            Write a grading rubric for each of these problems.
+          </p>
+        </li>
+        <li>
+          <p>
+            Consider the sample solutions given on the MA 113 website <url href="https://www.ms.uky.edu/~ma113/f.26/#expectations">https://www.ms.uky.edu/~ma113/f.26/#expectations</url> with respect to your rubric.
+            Does your rubric need revision after looking at those solutions?
+          </p>
+        </li>
+      </ol>
+    </p>
+  </activity>
+
+  <p>
+    The key takeaways from today are:
+    <ol>
+      <li>
+        <p>
+          Every homework/exam problem should have a clear goal.
+          In other words, it should be measuring something specific that we want students to be able to do.
+        </p>
+      </li>
+      <li>
+        <p>
+          If student work is graded by assigning partial credit using points, then you must use a grading rubric.
+          This helps your grading be more consistent and more equitable.
+          Further, if a student challenges a grade, it gives a concrete basis from which to justify the grading.
+        </p>
+      </li>
+      <li>
+        <p>
+          If you update the rubric while you are grading, make sure to review the problems you have already graded, to make sure that you have been consistent for all students.
+          This will often happen after you grade 5-10 student solutions, so you should plan on grading 5-10 solutions to see what issues arise, then revising your rubric accordingly.
+        </p>
+      </li>
+    </ol>
   </p>
 
 
