@@ -178,7 +178,70 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "4",
   "title": "Classroom Management, Part I",
-  "body": " Classroom Management, Part I  TO COMPLETE.  "
+  "body": " Classroom Management, Part I   Pre-class activity    Download a copy of the Instructional Practices Guide published by the Mathematical Association of America: https:\/\/maa.org\/resource\/instructional-practices-guide\/ .    Read the intro to the CP section (page 1 of the guide, found on page 18 of the pdf).    Read section CP 1.5 (pages 8-15 in the guide, found on pages 25-32 in the pdf).    Discussion of these readings will be the primary activity during class.     Classroom \"management\" techniques vary, as different techniques are required when using different classroom practices. An instructor who spends 50 minutes lecturing at the board and never gives students time to ask questions might envision classroom management as being about lecture pacing, selection of examples, clarity of boardwork, and similar themes. An instructor who has students spend 100% of class time working in small groups, with no time given to whole-class presentations by the instructor or students, will have a much broader set of themes to consider when managing their class.  Most instructors do not fall on either of these extremes. They will spend some time at the board, and they will have some time with students engaging either peer-to-peer or in small groups, and they will have time spent on responding to student questions, etc. So, it is important to keep in mind that your teaching techniques will vary depending on the teaching environment you are assigned to , for example, recitations, teaching a small (20-30 student) course, teaching a mid-size (60-80 student) course without support from teaching assistants, teaching a large (100+ student) course with support from undergraduate and\/or graduate teaching assistants, etc. Over the next few years, you should intentionally build your teaching \"toolkit\" so that you are able to effectively manage any classroom environment that is assigned to you.  There is an important clarification to make before we begin: \"classroom management\" is not primarily about discipline or handling behavior problems. While such situations might arise, they can often be avoided or minimized by intentional planning of classroom activities and teaching methods. If discipline or behavior issues do arise, then you should contact your course coordinator and\/or TA supervisor immediately.  For today, we will focus on the recitation environment, as that is what you will focus on for the next few semesters.   Share with your group 2-3 observations you had about the reading from the IP Guide. What made these parts of the reading noteworthy?    Consider the following quote from page 1 of the IP Guide:   \"As such, in transforming one's teaching instructors may need to provide structures for peer-to-peer communication and display a genuine interest in student contributions in the classroom that moves beyond questioning solely dependent on memorization and rote applications. Instructors will need to create a classroom environment where students feel accountable both as individuals and as members of the classroom community of learners.\"   There is a lot in this statement! Discuss with your group: do you feel that in your past math experiences, your instructors would usually   provide structures for peer-to-peer communication?    display a genuine interest in student contributions beyond rote learning?    develop in students a feeling of accountability as individuals?    develop in students a feeling of accountability as a member of the classroom community?       One definition of \"managing\" a classroom is to intentionally develop teaching methods and practices that support effective cooperative learning, by focusing on the five elements listed in section CP 1.5:   positive interdependence    face-to-face interaction    individual accountability    social skills    group processing     Discuss with your group: in which of these five areas do you feel you have most effectively given your students guidance? In which of these five areas do you feel you need to improve your methods of guiding students?    Consider the Think-Pair-Share vignette on page 9-10 of the IP Guide. Discuss with your group: what challenges might arise when you attempt to use think-pair-share in a recitation setting? How might you respond to those challenges?    Consider the passage in the IP Guide describing paired board work. The guide discusses the pros and cons of having different pairs of students work on the same or on different problems.     Suppose you choose to have all the groups work on the same problem at the same time. How would you manage the situation where some groups finish sooner than others?    Suppose you choose to have all students work on different problems. How would you manage the situation where some groups are given \"easier\" problems and some are given \"harder\" problems. What type of logistical issues arise in this situation regarding classroom management?    What types of classroom situations do you think would be better suited for each choice, same or different problems, for paired board work?       In the IP Guide section on small group work, on page 12, they give the following thoughts about how to assign students into groups:   Balance student personalities so that more vocal students are grouped with less vocal students.    Regroup students often so that they work with a variety of students from class.    Use different grouping strategies, such as using random generators, drawing from a deck of cards (all aces together, etc.), assigning groups based on the order in which students entered class, etc.    Use more strategic approaches, such as grouping based on declared majors or interests, class performance, or other knowledge of the students.    Avoid allowing students to remain in groups when the dynamic of the group impedes student learning. This is a good time to regroup!     Discuss with your small group:   What are some pros and cons regarding each of these methods?    What are the pros and cons of telling students the method you use for forming groups? Is it better to keep the group assignment method private, or to tell them how you assign groups? Why?       Suppose you did have a student behave in a disruptive or disrespectful manner, either to you or to other students. Discuss with your group: what are different ways that you might respond to such a student?  Remember: the same response might not always work! So, it is important to have multiple approaches to managing disruptive situations.   "
+},
+{
+  "id": "ch-classmanage1-7",
+  "level": "2",
+  "url": "ch-classmanage1.html#ch-classmanage1-7",
+  "type": "Activity",
+  "number": "4.0.1",
+  "title": "",
+  "body": " Share with your group 2-3 observations you had about the reading from the IP Guide. What made these parts of the reading noteworthy?  "
+},
+{
+  "id": "ch-classmanage1-8",
+  "level": "2",
+  "url": "ch-classmanage1.html#ch-classmanage1-8",
+  "type": "Activity",
+  "number": "4.0.2",
+  "title": "",
+  "body": " Consider the following quote from page 1 of the IP Guide:   \"As such, in transforming one's teaching instructors may need to provide structures for peer-to-peer communication and display a genuine interest in student contributions in the classroom that moves beyond questioning solely dependent on memorization and rote applications. Instructors will need to create a classroom environment where students feel accountable both as individuals and as members of the classroom community of learners.\"   There is a lot in this statement! Discuss with your group: do you feel that in your past math experiences, your instructors would usually   provide structures for peer-to-peer communication?    display a genuine interest in student contributions beyond rote learning?    develop in students a feeling of accountability as individuals?    develop in students a feeling of accountability as a member of the classroom community?     "
+},
+{
+  "id": "ch-classmanage1-9",
+  "level": "2",
+  "url": "ch-classmanage1.html#ch-classmanage1-9",
+  "type": "Activity",
+  "number": "4.0.3",
+  "title": "",
+  "body": " One definition of \"managing\" a classroom is to intentionally develop teaching methods and practices that support effective cooperative learning, by focusing on the five elements listed in section CP 1.5:   positive interdependence    face-to-face interaction    individual accountability    social skills    group processing     Discuss with your group: in which of these five areas do you feel you have most effectively given your students guidance? In which of these five areas do you feel you need to improve your methods of guiding students?  "
+},
+{
+  "id": "ch-classmanage1-10",
+  "level": "2",
+  "url": "ch-classmanage1.html#ch-classmanage1-10",
+  "type": "Activity",
+  "number": "4.0.4",
+  "title": "",
+  "body": " Consider the Think-Pair-Share vignette on page 9-10 of the IP Guide. Discuss with your group: what challenges might arise when you attempt to use think-pair-share in a recitation setting? How might you respond to those challenges?  "
+},
+{
+  "id": "ch-classmanage1-11",
+  "level": "2",
+  "url": "ch-classmanage1.html#ch-classmanage1-11",
+  "type": "Activity",
+  "number": "4.0.5",
+  "title": "",
+  "body": " Consider the passage in the IP Guide describing paired board work. The guide discusses the pros and cons of having different pairs of students work on the same or on different problems.     Suppose you choose to have all the groups work on the same problem at the same time. How would you manage the situation where some groups finish sooner than others?    Suppose you choose to have all students work on different problems. How would you manage the situation where some groups are given \"easier\" problems and some are given \"harder\" problems. What type of logistical issues arise in this situation regarding classroom management?    What types of classroom situations do you think would be better suited for each choice, same or different problems, for paired board work?     "
+},
+{
+  "id": "ch-classmanage1-12",
+  "level": "2",
+  "url": "ch-classmanage1.html#ch-classmanage1-12",
+  "type": "Activity",
+  "number": "4.0.6",
+  "title": "",
+  "body": " In the IP Guide section on small group work, on page 12, they give the following thoughts about how to assign students into groups:   Balance student personalities so that more vocal students are grouped with less vocal students.    Regroup students often so that they work with a variety of students from class.    Use different grouping strategies, such as using random generators, drawing from a deck of cards (all aces together, etc.), assigning groups based on the order in which students entered class, etc.    Use more strategic approaches, such as grouping based on declared majors or interests, class performance, or other knowledge of the students.    Avoid allowing students to remain in groups when the dynamic of the group impedes student learning. This is a good time to regroup!     Discuss with your small group:   What are some pros and cons regarding each of these methods?    What are the pros and cons of telling students the method you use for forming groups? Is it better to keep the group assignment method private, or to tell them how you assign groups? Why?     "
+},
+{
+  "id": "ch-classmanage1-13",
+  "level": "2",
+  "url": "ch-classmanage1.html#ch-classmanage1-13",
+  "type": "Activity",
+  "number": "4.0.7",
+  "title": "",
+  "body": " Suppose you did have a student behave in a disruptive or disrespectful manner, either to you or to other students. Discuss with your group: what are different ways that you might respond to such a student?  Remember: the same response might not always work! So, it is important to have multiple approaches to managing disruptive situations.  "
 },
 {
   "id": "ch-policies",
