@@ -259,7 +259,61 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "6",
   "title": "Assessment",
-  "body": " Assessment  TO COMPLETE.  "
+  "body": " Assessment   Pre-class activity :  Write a paragraph that begins with the following phrase: \"Effective assessment occurs when we...\"  Bring this to class with you and be prepared to share with your discussion groups.   With your discussion group:  Go around the group and have each student read the paragraph they wrote.  Discuss for 3-4 minutes: in what ways did your ideas align or not align with each other?     Our goal today is to discuss formative and summative assessment. These concepts fit within the broader context of effective assessment practices, which we define using the following three components given in the MAA IP Guide .   Effective assessment occurs when we:  clearly state high-quality goals for student learning that represent the key areas of intellectual knowledge, mathematical behaviors and practices, and emotional functioning in mathematical contexts;  give students frequent informal feedback about their progress toward these goals; and  evaluate student growth and proficiency based on these goals.     Discuss with your group: How did your pre-class writing and initial discussion align or not align with this definition?   Our focus today will be on the ideas of formative and summative assessment, based on an existing set of student learning outcomes (SLOs). Let's review the SLOs for MA 113 in Fall 2026 as an example of comprehensive SLOs:    Discuss with your groups: how are each of the following represented in the MA 113 learning outcomes?   intellectual knowledge    behaviors and practices    emotional functioning      Here are two important points about assessment:   You should give students feedback on every learning outcome, but you do not have to evaluate their performance on every learning outcome.    Colleges and universities will expect you to only write \"measurable\" learning outcomes and to evaluate students on each of them.   This is a tension, because there are many things in math we want students to learn and improve on, but some of them are hard to measure. So, in practice, a course syllabus might need to have a section on \"learning outcomes\" and another section on \"practice and behavior goals\" or something like that.  The MA 113 learning outcomes state a variety of content knowledge that students should learn; this is good to evaluate student proficiency on. They also state that \"Students will engage in productive struggle with mathematics problems\". It does not make sense to \"grade\" students on how productively they are struggling, however, it does make sense that we can set up activities, assignments, or environments in which they struggle and then provide useful feedback. In this case, there are learning outcomes listed that are not directly evaluated, but that are of great importance in the course. This represents a tension between the goal of the university as an institution (assess only measurable things) and the goal of the professors (make clear to students what they should be learning in the class, even if it is difficult to measure).  The split between assessment focused on providing useful feedback and assessment focused on evaluating student proficiency is precisely what is captured in the concepts of formative and summative assessment.   Formative Assessment : Alan Schoenfeld informally defines formative assessment as examinations or performance opportunities the primary purpose of which is to provide student and teachers feedback about the student's current state, while there are still opportunities for student improvement.   Discuss:   In your experience taking math courses, in what ways did you receive (or not receive) feedback about your learning and development prior to being evaluated?    What are examples of such examinations or opportunities in the course you are teaching now?      On page 54 of the MAA IP Guide , it states that research by Black and William identify five strategies for implementing formative assessment:   Clarify and share learning intentions and criteria for success    Engineer effective classroom discussions and other learning tasks that elicit evidence of student understanding.    Provide feedback that moves learners forward.    Activate students as instructional resources for one another.    Activate students as the owners of their own learning.      Discuss: in what ways do you see each of these strategies implemented, or not implemented, in the structure and design of the course you are teaching right now?    Summative Assessment : Summative assessment is conducted with the purpose of evaluating student growth and\/or proficiency with regard to one or more learning outcomes.  When measuring student growth , we evaluate how far students have progressed compared to their starting point. When measuring student proficiency , we evaluate students against a specific learning outcome, regardless of their starting point.   Discuss the difference between growth and proficiency.   How might quizzes, exams, course projects, etc. differ when focused on growth or focused on proficiency?    When should a math course be focused more on student growth, and when should it be focused more on student proficiency?      Now that we have a basic understanding of the concepts of formative and summative assessment, there is a natural question to ask: how do I create\/design homework problems, exam problems, class activities, etc., in ways that align with and support the three key areas of effective assessment? This will be our goal for our next class.  "
+},
+{
+  "id": "ch-assessment-3",
+  "level": "2",
+  "url": "ch-assessment.html#ch-assessment-3",
+  "type": "Activity",
+  "number": "6.0.1",
+  "title": "",
+  "body": " With your discussion group:  Go around the group and have each student read the paragraph they wrote.  Discuss for 3-4 minutes: in what ways did your ideas align or not align with each other?    "
+},
+{
+  "id": "ch-assessment-6",
+  "level": "2",
+  "url": "ch-assessment.html#ch-assessment-6",
+  "type": "Activity",
+  "number": "6.0.2",
+  "title": "",
+  "body": " Discuss with your group: How did your pre-class writing and initial discussion align or not align with this definition?  "
+},
+{
+  "id": "ch-assessment-8",
+  "level": "2",
+  "url": "ch-assessment.html#ch-assessment-8",
+  "type": "Activity",
+  "number": "6.0.3",
+  "title": "",
+  "body": " Discuss with your groups: how are each of the following represented in the MA 113 learning outcomes?   intellectual knowledge    behaviors and practices    emotional functioning     "
+},
+{
+  "id": "ch-assessment-13",
+  "level": "2",
+  "url": "ch-assessment.html#ch-assessment-13",
+  "type": "Activity",
+  "number": "6.0.4",
+  "title": "",
+  "body": " Discuss:   In your experience taking math courses, in what ways did you receive (or not receive) feedback about your learning and development prior to being evaluated?    What are examples of such examinations or opportunities in the course you are teaching now?     "
+},
+{
+  "id": "ch-assessment-15",
+  "level": "2",
+  "url": "ch-assessment.html#ch-assessment-15",
+  "type": "Activity",
+  "number": "6.0.5",
+  "title": "",
+  "body": " Discuss: in what ways do you see each of these strategies implemented, or not implemented, in the structure and design of the course you are teaching right now?  "
+},
+{
+  "id": "ch-assessment-18",
+  "level": "2",
+  "url": "ch-assessment.html#ch-assessment-18",
+  "type": "Activity",
+  "number": "6.0.6",
+  "title": "",
+  "body": " Discuss the difference between growth and proficiency.   How might quizzes, exams, course projects, etc. differ when focused on growth or focused on proficiency?    When should a math course be focused more on student growth, and when should it be focused more on student proficiency?     "
 },
 {
   "id": "ch-createhomework",
