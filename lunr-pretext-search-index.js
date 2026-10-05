@@ -322,7 +322,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "7",
   "title": "Creating and Selecting Homework and Exam Problems",
-  "body": " Creating and Selecting Homework and Exam Problems   Pre-class activity : Read Section AP.3.3 in the MAA Instructional Practices Guide (pages 63-66):   Recall that the IP Guide stated on page 63:  For example, Anderson et al. (2001) introduces a two-dimensional extension of Bloom's taxonomy, pictured in the table below. The first dimension consists of a cognitive process dimension (remember, understand, apply, analyze, evaluate, create) similar to Bloom's taxonomy, while the second dimension consists of a knowledge dimension (factual knowledge, conceptual knowledge, procedural knowledge, and metacognitive knowledge). When evaluating a task using this taxonomy, the cognitive process is represented by the verb used in specifying the task (what the student is doing) and the knowledge process dimension corresponds to the noun (what kind of knowledge the student is working with).     Discuss with your small group: what were your responses, both positive and negative, to the two-dimensional version of Bloom's taxonomy given in the IP Guide?    (20-25 minutes) In collaboration with your group, use the two-dimensional taxonomy to analyze the problems on the Fall 2025 MA 113 final exam:    Let's discuss as a whole class what we found in our analysis of the exam.  Recall our definition from last class: Effective assessment occurs when we:  clearly state high-quality goals for student learning that represent the key areas of intellectual knowledge, mathematical behaviors and practices, and emotional functioning in mathematical contexts;  give students frequent informal feedback about their progress toward these goals; and  evaluate student growth and proficiency based on these goals.    "
+  "body": " Creating and Selecting Homework and Exam Problems   Pre-class activity : Read Section AP.3.3 in the MAA Instructional Practices Guide (pages 63-66):   Recall that the IP Guide stated on page 63:  For example, Anderson et al. (2001) introduces a two-dimensional extension of Bloom's taxonomy, pictured in the table below. The first dimension consists of a cognitive process dimension (remember, understand, apply, analyze, evaluate, create) similar to Bloom's taxonomy, while the second dimension consists of a knowledge dimension (factual knowledge, conceptual knowledge, procedural knowledge, and metacognitive knowledge). When evaluating a task using this taxonomy, the cognitive process is represented by the verb used in specifying the task (what the student is doing) and the knowledge process dimension corresponds to the noun (what kind of knowledge the student is working with).     Discuss with your small group: what were your responses, both positive and negative, to the two-dimensional version of Bloom's taxonomy given in the IP Guide?   The best way to get familiar with this taxonomy is to apply it, which we will do next.   (20 minutes) In collaboration with your group, use the two-dimensional taxonomy to analyze the problems on the Fall 2025 MA 113 final exam:     Whole class discussion: what did you uncover in your analysis of the final exam?   Recall our definition from last class: Effective assessment occurs when we:  clearly state high-quality goals for student learning that represent the key areas of intellectual knowledge, mathematical behaviors and practices, and emotional functioning in mathematical contexts;  give students frequent informal feedback about their progress toward these goals; and  evaluate student growth and proficiency based on these goals.    When you are creating learning outcomes, in-class activities, homework, exams, projects, etc., you need to keep in mind all of the dimensions of cognitive processing and knowledge that are represented in the two-dimensional taxonomy. You do not have to represent every dimension in every context. However, students should be engaged in all of these dimensions when the entire course is considered.   Discuss with either small groups or whole class (depending on time): In what ways are the different dimensions in the extended taxonomy represented in the courses you are teaching? Consider in-class activities, homework, exams, etc.   "
 },
 {
   "id": "ch-createhomework-4",
@@ -334,13 +334,31 @@ var ptx_lunr_docs = [
   "body": " Discuss with your small group: what were your responses, both positive and negative, to the two-dimensional version of Bloom's taxonomy given in the IP Guide?  "
 },
 {
-  "id": "ch-createhomework-5",
+  "id": "ch-createhomework-6",
   "level": "2",
-  "url": "ch-createhomework.html#ch-createhomework-5",
+  "url": "ch-createhomework.html#ch-createhomework-6",
   "type": "Activity",
   "number": "7.0.2",
   "title": "",
-  "body": " (20-25 minutes) In collaboration with your group, use the two-dimensional taxonomy to analyze the problems on the Fall 2025 MA 113 final exam:   "
+  "body": " (20 minutes) In collaboration with your group, use the two-dimensional taxonomy to analyze the problems on the Fall 2025 MA 113 final exam:   "
+},
+{
+  "id": "ch-createhomework-7",
+  "level": "2",
+  "url": "ch-createhomework.html#ch-createhomework-7",
+  "type": "Activity",
+  "number": "7.0.3",
+  "title": "",
+  "body": " Whole class discussion: what did you uncover in your analysis of the final exam?  "
+},
+{
+  "id": "ch-createhomework-10",
+  "level": "2",
+  "url": "ch-createhomework.html#ch-createhomework-10",
+  "type": "Activity",
+  "number": "7.0.4",
+  "title": "",
+  "body": " Discuss with either small groups or whole class (depending on time): In what ways are the different dimensions in the extended taxonomy represented in the courses you are teaching? Consider in-class activities, homework, exams, etc.  "
 },
 {
   "id": "ch-classmanage2",
