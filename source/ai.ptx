@@ -4,8 +4,53 @@
   <title>AI and Mathematics</title>
 
   <p>
-    TO COMPLETE.
-  </p>
+  <alert>Pre-class activity</alert>: Read the six definitions given below.
+</p>
 
+<p>
+Today we will have a discussion regarding AI and LLM use in mathematics teaching and learning.
+Rather than giving a series of prompts, our goal will be to discuss the types of AI and LLM use that are both present and absent in your recitations, in your students' conversations with you about their work outside of class, and in your own work for your own courses.
+What are the risks and benefits that you are observing regarding AI and LLM use?
+What are the different opinions and perspectives that you are hearing from students, peers, and faculty?
+</p>
+
+<p>
+  To provide some helpful language, before we begin our discussion, let's introduce a few terms that were given in this paper from the medical education literature: Ke, Y., Jin, L., Ong, J.C.L. et al. AI-induced never-skilling in medical education. Nat Med 32, 1997–2006 (2026). <url href="https://doi.org/10.1038/s41591-026-04438-y"/>
+  <ol>
+    <li>
+      <p>
+        <em>Never-skilling</em>: Failure to develop foundational reasoning competencies during formative training due to excessive AI substitution for cognitive effort. 
+        This produces an inability to demonstrate AI-independent competence.
+      </p>
+    </li>
+    <li>
+      <p>
+        <em>Deskilling</em>: Degradation of established competencies in already trained mathematicians due to prolonged AI reliance.
+        Existing neural pathways weaken from disuse, but foundational architecture remains intact.
+      </p>
+    </li>
+    <li>
+      <p>
+        <em>Mis-skilling</em>: Acquisition of incorrect reasoning patterns or procedural knowledge through uncritical adoption of erroneous or biased AI outputs.
+      </p>
+    </li>
+    <li>
+      <p>
+        <em>Metacognitive calibration</em>: Accurate internal modeling of one's own competence boundaries and the alignment between subjective confidence and objective performance that enables appropriate help-seeking behavior.
+      </p>
+    </li>
+    <li>
+      <p>
+        <em>Automation bias</em>: The tendency to over-rely on automated decision-support systems, accepting their outputs uncritically even when contradictory evidence exists;
+    susceptibility is heightened among less-experienced math students/professionals who lack the foundational schemas needed to evaluate AI recommendations.
+      </p>
+    </li>
+    <li>
+      <p>
+        <em>False proficiency</em>: A transient performance state in which AI-assisted clinical reasoning appears adequate during training, masking the absence of underlying independent competency that becomes evident only when AI support is withdrawn or unavailable.
+      </p>
+    </li>
+  </ol>
+</p>
 
 </chapter>

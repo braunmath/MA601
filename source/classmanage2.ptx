@@ -3,72 +3,114 @@
 <chapter xml:id="ch-classmanage2" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Classroom Management, Part II</title>
 
-  <p>
-  <alert>Pre-class activity</alert>: 
-  <ol>
-    <li>Write a paragraph that begins with the following phrase: "An in-class activity or task is appropriate for students when it..."
-      </li>
-      </ol>
-  Bring this to class with you and be prepared to share with your discussion groups.
+<p>
+  <alert>Pre-class activity</alert>: Read Section 2.3 (pages 15-24) in <em>Equitable and Engaging Mathematics Teaching: A Guide to Disrupting Hierarchies in the Classroom</em> by Daniel Reinholz, MAA Notes Volume #97, available here: <url href="https://drive.google.com/file/d/1_bGAXj1Rm6LOhaSvPJNEMuM_F9PkB9ec/view?usp=sharing"/>
 </p>
 
 <activity>
   <p>
-    With your discussion group:
-    <ol>
-      <li> 
-        Go around the group and have each student read the paragraph they wrote.
-      </li>
-      <li>
-          Discuss for 3-4 minutes: in what ways did your ideas align or not align with each other?
-      </li>
-    </ol>
+    Discuss with your groups: what were 2-3 things that stood out to you in the reading? Why?
   </p>
 </activity>
-
-<p>
-  Our goal for today is to consider the question: "How do I select an appropriate mathematical task/activity to use during class?"
-  If you want to get a more in-depth exploration of this question, read section CP.2 of the MAA IP Guide: <url href="https://maa.org/resource/instructional-practices-guide/"/>
-</p>
-
-<p>
-In section CP.2.4 of the IP Guide, they give the following list of questions that should guide instructors choices/design of a mathematical task/activity to use during class.
-<ol>
-  <li>
-Do I have clearly-stated and concrete learning objectives defined for the lesson in which the task is going to appear, and do students have access to those objectives?
-</li>
-<li>
-Does the task align with my learning objectives?
-</li>
-<li>
-Do I have actionable information, based on formative assessment or surveys, about my students' motivations, attitudes, and mathematical readiness for the task?
-</li>
-  <li>
-Based on that information, does the task meet students at their level of expertise (not too easy, not too hard) and at their level of readiness (they are prepared to do the task apart from having the right level of expertise) and motivation (students have a reason to perform the task apart from extrinsic rewards and punishments)?
-</li>
-  <li>
-Is the task well-constructed in terms of building students' intellectual development, competence, and autonomy? 
-Does it leverage the social context of the class to promote relatedness?
-</li>
-  <li>
-Is the task suitable for the physical environment of the class meeting?
-</li>
-  <li>
-Is the task suitable for the mode of instruction (face-to-face vs. online)?
-</li>
-  </ol>
-</p>
 
 <activity>
 <p>
-  Discuss with your group: You have been asked to lead small groups in the process of problem solving during recitations for large-lecture courses. 
-  Go through each of the questions above and ask yourselves whether or not you feel that this general activity satisfies each of these questions?
-  </p>
+  Discuss with your groups: Reinholz discusses in Section 2.3.1 the issue of <q>attention wandering</q>. How much does your attention wander during math courses?
+  During other courses?
+  Do you identify with your students who have trouble focusing during all of class, or do you have trouble understanding why this is difficult for them?
+</p>
+</activity>
+
+<activity>
+<p>
+  Discuss with your groups: do you feel that your students' attention wanders during group work?
+  Why do you think this happens?
+  What are strategies you might use to help them return their focus after they get distracted?
+</p>
 </activity>
 
 <p>
+  In Section 2.3.2, Reinholz states that psychologists have found the following techniques to have different levels of effectiveness:
+  <ul>
+    <li>
+      <p>
+        Highly effective: practice testing and distributed practice
+      </p>
+    </li>
+    <li>
+      <p>
+        Moderately effective: interleaved practice, elaborative interrogation, and self-explanation
+      </p>
+    </li>
+    <li>
+      <p>
+        Low effect: summarization, highlighting, keyword mnemonics, imagery use for text learning, re-reading
+      </p>
+    </li>
+  </ul>
+  Reinholz writes: 
+  </p> 
+  <blockquote>
+    <p>
+    "What is notable is that in these studies, the solutions to the practice problems need not be correct. 
+  In other words, <em>imperfect</em> practice is still more beneficial for learning than studying a <em>perfectly</em> correct text. 
+  In fact, some research suggests that the very act of incorrectly attempting a problem could have learning benefits in its own right."
+</p>
+  </blockquote>
+
+<activity>
+<p>
+  Discuss with your groups: How are recitations in our department aligned or not aligned with these learning techniques?
+</p>
+</activity>
+
+<activity>
+<p>
+  Discuss with your groups: How are your personal study/learning practices aligned or not aligned with these learning techniques?
+</p>
+</activity>
+
+<p>
+In Section 2.3.5, Reinholz discusses how active learning techniques can sometimes lead to an increase in inequitable outcomes between students in different demographic groups, but that there are effective strategies to avoid these inequitable outcomes.
+He writes:
+</p>
+
+<blockquote>
+<p>
+"Educational theory and empirical data suggests that the inequities that arise in active learning classes can at least be partially attributed to the quality and quantity of participation opportunities afforded to different groups of students. 
+In short, non-minoritized students take up more opportunities to participate, and thus learn, which mediates the production of inequity."
+</p></blockquote>
+
+<p>
+  In her 2023 Joint Mathematics Meetings talk <url href="https://www.youtube.com/watch?v=pRS9OMPfDRg"/>, Estella Johnson stated:
   
+  </p> 
+  <blockquote><p>
+  "Thoughtful educators who are systematically trying to improve their teaching (by increasing student engagement during class time) are generally successful."
+  </p></blockquote>
+  <p>
+  Thus, an important observation for novice teachers regarding using active learning in class is that attention must be given to ensuring that students feel welcome and that they belong in the class, so that they are comfortable fully engaging in the course activities.
+  In a few weeks, we will devote an entire class meeting to the topic of creating supportive learning environments.
 </p>
+
+<p>
+Reinholz writes:
+<blockquote><p>
+"In a lecture, the instructor does the hard work, making the content feel easy. 
+An active classroom is much messier, and students struggle, make mistakes, and must work through repeated failures. 
+Even though they are learning more through the process, it gives the (proper) impression that learning is hard work."
+</p></blockquote>
+</p>
+
+<activity>
+<p>
+  Discuss this quote: Does this resonate with you, as a student or as a TA or as both or neither?
+  When you consider the idea of a <q>messy</q> classroom as being a productive learning environment, does this sound like a contradiction to you, or does this sound coherent?
+  Why?
+</p>
+</activity>
+
+
 
 
 
