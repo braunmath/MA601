@@ -367,7 +367,61 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "8",
   "title": "Classroom Management, Part II",
-  "body": " Classroom Management, Part II  TO COMPLETE.  "
+  "body": " Classroom Management, Part II   Pre-class activity : Read Section 2.3 (pages 15-24) in Equitable and Engaging Mathematics Teaching: A Guide to Disrupting Hierarchies in the Classroom by Daniel Reinholz, MAA Notes Volume #97, available here:    Discuss with your groups: what were 2-3 things that stood out to you in the reading? Why?    Discuss with your groups: Reinholz discusses in Section 2.3.1 the issue of attention wandering . How much does your attention wander during math courses? During other courses? Do you identify with your students who have trouble focusing during all of class, or do you have trouble understanding why this is difficult for them?    Discuss with your groups: do you feel that your students' attention wanders during group work? Why do you think this happens? What are strategies you might use to help them return their focus after they get distracted?   In Section 2.3.2, Reinholz states that psychologists have found the following techniques to have different levels of effectiveness:   Highly effective: practice testing and distributed practice    Moderately effective: interleaved practice, elaborative interrogation, and self-explanation    Low effect: summarization, highlighting, keyword mnemonics, imagery use for text learning, re-reading   Reinholz writes:   \"What is notable is that in these studies, the solutions to the practice problems need not be correct. In other words, imperfect practice is still more beneficial for learning than studying a perfectly correct text. In fact, some research suggests that the very act of incorrectly attempting a problem could have learning benefits in its own right.\"    Discuss with your groups: How are recitations in our department aligned or not aligned with these learning techniques?    Discuss with your groups: How are your personal study\/learning practices aligned or not aligned with these learning techniques?   In Section 2.3.5, Reinholz discusses how active learning techniques can sometimes lead to an increase in inequitable outcomes between students in different demographic groups, but that there are effective strategies to avoid these inequitable outcomes. He writes:   \"Educational theory and empirical data suggests that the inequities that arise in active learning classes can at least be partially attributed to the quality and quantity of participation opportunities afforded to different groups of students. In short, non-minoritized students take up more opportunities to participate, and thus learn, which mediates the production of inequity.\"  In her 2023 Joint Mathematics Meetings talk , Estella Johnson stated:  \"Thoughtful educators who are systematically trying to improve their teaching (by increasing student engagement during class time) are generally successful.\"  Thus, an important observation for novice teachers regarding using active learning in class is that attention must be given to ensuring that students feel welcome and that they belong in the class, so that they are comfortable fully engaging in the course activities. In a few weeks, we will devote an entire class meeting to the topic of creating supportive learning environments.  Reinholz writes: \"In a lecture, the instructor does the hard work, making the content feel easy. An active classroom is much messier, and students struggle, make mistakes, and must work through repeated failures. Even though they are learning more through the process, it gives the (proper) impression that learning is hard work.\"    Discuss this quote: Does this resonate with you, as a student or as a TA or as both or neither? When you consider the idea of a messy classroom as being a productive learning environment, does this sound like a contradiction to you, or does this sound coherent? Why?   "
+},
+{
+  "id": "ch-classmanage2-3",
+  "level": "2",
+  "url": "ch-classmanage2.html#ch-classmanage2-3",
+  "type": "Activity",
+  "number": "8.0.1",
+  "title": "",
+  "body": " Discuss with your groups: what were 2-3 things that stood out to you in the reading? Why?  "
+},
+{
+  "id": "ch-classmanage2-4",
+  "level": "2",
+  "url": "ch-classmanage2.html#ch-classmanage2-4",
+  "type": "Activity",
+  "number": "8.0.2",
+  "title": "",
+  "body": " Discuss with your groups: Reinholz discusses in Section 2.3.1 the issue of attention wandering . How much does your attention wander during math courses? During other courses? Do you identify with your students who have trouble focusing during all of class, or do you have trouble understanding why this is difficult for them?  "
+},
+{
+  "id": "ch-classmanage2-5",
+  "level": "2",
+  "url": "ch-classmanage2.html#ch-classmanage2-5",
+  "type": "Activity",
+  "number": "8.0.3",
+  "title": "",
+  "body": " Discuss with your groups: do you feel that your students' attention wanders during group work? Why do you think this happens? What are strategies you might use to help them return their focus after they get distracted?  "
+},
+{
+  "id": "ch-classmanage2-8",
+  "level": "2",
+  "url": "ch-classmanage2.html#ch-classmanage2-8",
+  "type": "Activity",
+  "number": "8.0.4",
+  "title": "",
+  "body": " Discuss with your groups: How are recitations in our department aligned or not aligned with these learning techniques?  "
+},
+{
+  "id": "ch-classmanage2-9",
+  "level": "2",
+  "url": "ch-classmanage2.html#ch-classmanage2-9",
+  "type": "Activity",
+  "number": "8.0.5",
+  "title": "",
+  "body": " Discuss with your groups: How are your personal study\/learning practices aligned or not aligned with these learning techniques?  "
+},
+{
+  "id": "ch-classmanage2-16",
+  "level": "2",
+  "url": "ch-classmanage2.html#ch-classmanage2-16",
+  "type": "Activity",
+  "number": "8.0.6",
+  "title": "",
+  "body": " Discuss this quote: Does this resonate with you, as a student or as a TA or as both or neither? When you consider the idea of a messy classroom as being a productive learning environment, does this sound like a contradiction to you, or does this sound coherent? Why?  "
 },
 {
   "id": "ch-mkt",
@@ -376,7 +430,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "9",
   "title": "Mathematical Knowledge for Teaching",
-  "body": " Mathematical Knowledge for Teaching  TO COMPLETE.  "
+  "body": " Mathematical Knowledge for Teaching   Pre-class activity : Read Section 2 in , which is the paper:   Yasemin Copur-Gencturk, Tammy Tolar, Mathematics teaching expertise: A study of the dimensionality of content knowledge, pedagogical content knowledge, and content-specific noticing skills, Teaching and Teacher Education , Volume 114, 2022       "
 },
 {
   "id": "ch-ai",
@@ -385,7 +439,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "10",
   "title": "AI and Mathematics",
-  "body": " AI and Mathematics  TO COMPLETE.  "
+  "body": " AI and Mathematics   Pre-class activity : Read the six definitions given below.  Today we will have a discussion regarding AI and LLM use in mathematics teaching and learning. Rather than giving a series of prompts, our goal will be to discuss the types of AI and LLM use that are both present and absent in your recitations, in your students' conversations with you about their work outside of class, and in your own work for your own courses. What are the risks and benefits that you are observing regarding AI and LLM use? What are the different opinions and perspectives that you are hearing from students, peers, and faculty?  To provide some helpful language, before we begin our discussion, let's introduce a few terms that were given in this paper from the medical education literature: Ke, Y., Jin, L., Ong, J.C.L. et al. AI-induced never-skilling in medical education. Nat Med 32, 1997–2006 (2026).     Never-skilling : Failure to develop foundational reasoning competencies during formative training due to excessive AI substitution for cognitive effort. This produces an inability to demonstrate AI-independent competence.     Deskilling : Degradation of established competencies in already trained mathematicians due to prolonged AI reliance. Existing neural pathways weaken from disuse, but foundational architecture remains intact.     Mis-skilling : Acquisition of incorrect reasoning patterns or procedural knowledge through uncritical adoption of erroneous or biased AI outputs.     Metacognitive calibration : Accurate internal modeling of one's own competence boundaries and the alignment between subjective confidence and objective performance that enables appropriate help-seeking behavior.     Automation bias : The tendency to over-rely on automated decision-support systems, accepting their outputs uncritically even when contradictory evidence exists; susceptibility is heightened among less-experienced math students\/professionals who lack the foundational schemas needed to evaluate AI recommendations.     False proficiency : A transient performance state in which AI-assisted clinical reasoning appears adequate during training, masking the absence of underlying independent competency that becomes evident only when AI support is withdrawn or unavailable.     "
 },
 {
   "id": "ch-supportiveclassrooms",
@@ -421,7 +475,34 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "14",
   "title": "Final Discussion Day",
-  "body": " Final Discussion Day  TO COMPLETE.  "
+  "body": " Final Discussion Day   Pre-class activity : Write a bullet-point list of six (6) things you have learned in this class that you believe will have a long-term impact on you as a teacher, as a learner, or as a person (unrelated to your professional life).   Share your lists with your group. Were there any items on your list that were shared among all or most of you?    Whole-class discussion of the major takeaways from the course.    Each student share one personal goal that they have for their TA work next semester.   "
+},
+{
+  "id": "ch-finaldiscussion-3",
+  "level": "2",
+  "url": "ch-finaldiscussion.html#ch-finaldiscussion-3",
+  "type": "Activity",
+  "number": "14.0.1",
+  "title": "",
+  "body": " Share your lists with your group. Were there any items on your list that were shared among all or most of you?  "
+},
+{
+  "id": "ch-finaldiscussion-4",
+  "level": "2",
+  "url": "ch-finaldiscussion.html#ch-finaldiscussion-4",
+  "type": "Activity",
+  "number": "14.0.2",
+  "title": "",
+  "body": " Whole-class discussion of the major takeaways from the course.  "
+},
+{
+  "id": "ch-finaldiscussion-5",
+  "level": "2",
+  "url": "ch-finaldiscussion.html#ch-finaldiscussion-5",
+  "type": "Activity",
+  "number": "14.0.3",
+  "title": "",
+  "body": " Each student share one personal goal that they have for their TA work next semester.  "
 },
 {
   "id": "backmatter-2",
