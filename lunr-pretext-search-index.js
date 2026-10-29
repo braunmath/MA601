@@ -430,7 +430,79 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "9",
   "title": "Mathematical Knowledge for Teaching",
-  "body": " Mathematical Knowledge for Teaching   Pre-class activity : Read Section 2 in , which is the paper:   Yasemin Copur-Gencturk, Tammy Tolar, Mathematics teaching expertise: A study of the dimensionality of content knowledge, pedagogical content knowledge, and content-specific noticing skills, Teaching and Teacher Education , Volume 114, 2022       "
+  "body": " Mathematical Knowledge for Teaching   Pre-class activity : Read Section 2 in , which is the paper:   Yasemin Copur-Gencturk, Tammy Tolar, Mathematics teaching expertise: A study of the dimensionality of content knowledge, pedagogical content knowledge, and content-specific noticing skills, Teaching and Teacher Education , Volume 114, 2022      Discuss with your small group: What in the reading for today stood out to you? What was something noteworthy? Why?   The topic we discussing today is Mathematical Knowledge for Teaching (MKT) , which is the body of knowledge and practices required for effective mathematics teaching. A variety of conceptual frameworks to describe MKT have been developed over the past several decades. Today, we will discuss a framework that conceptualizes MKT as having three dimensions.  While frameworks to describe MKT were originally developed in the context of elementary school teaching, the core ideas of MKT extend and apply broadly across all levels of mathematics teaching. The framework we read about for today is based on studies of elementary school teachers, and consists of:   Content knowledge    Conceptual understanding    Mathematical reasoning    Word problem solving      Pedagogical content knowledge    Knowledge of students' mathematical thinking    Knowledge of mathematics teaching      Content-specific noticing skills    What teachers are attending to    How teachers interpret classroom events        Discuss with your group: What questions did you have about the three dimensions, and their associated subdimensions?    Discuss with your group: For each subdimension in this list, identify an experience you have had while teaching this semester where this subdimension played a role in your teaching during recitation.    Discuss with your group: Do you believe that each of these dimensions and subdimensions are relevant to your work as a recitation TA? If so, why? If not, why not?    Discuss with your group: Are there aspects of teaching mathematics at the college level that you feel are important but do not fall within one of these three dimensions?    Discuss with your group: Which of these three dimensions do you feel you are strongest at? Which do you feel that you need the most improvement in?    Discuss with your group: What are behaviors or actions taken by students that you think you should be attentive to in your professional noticing ?    Discuss with your group: How are these three dimensions of MKT related to the previous topics we have discussed in this class?   "
+},
+{
+  "id": "ch-mkt-3",
+  "level": "2",
+  "url": "ch-mkt.html#ch-mkt-3",
+  "type": "Activity",
+  "number": "9.0.1",
+  "title": "",
+  "body": " Discuss with your small group: What in the reading for today stood out to you? What was something noteworthy? Why?  "
+},
+{
+  "id": "ch-mkt-6",
+  "level": "2",
+  "url": "ch-mkt.html#ch-mkt-6",
+  "type": "Activity",
+  "number": "9.0.2",
+  "title": "",
+  "body": " Discuss with your group: What questions did you have about the three dimensions, and their associated subdimensions?  "
+},
+{
+  "id": "ch-mkt-7",
+  "level": "2",
+  "url": "ch-mkt.html#ch-mkt-7",
+  "type": "Activity",
+  "number": "9.0.3",
+  "title": "",
+  "body": " Discuss with your group: For each subdimension in this list, identify an experience you have had while teaching this semester where this subdimension played a role in your teaching during recitation.  "
+},
+{
+  "id": "ch-mkt-8",
+  "level": "2",
+  "url": "ch-mkt.html#ch-mkt-8",
+  "type": "Activity",
+  "number": "9.0.4",
+  "title": "",
+  "body": " Discuss with your group: Do you believe that each of these dimensions and subdimensions are relevant to your work as a recitation TA? If so, why? If not, why not?  "
+},
+{
+  "id": "ch-mkt-9",
+  "level": "2",
+  "url": "ch-mkt.html#ch-mkt-9",
+  "type": "Activity",
+  "number": "9.0.5",
+  "title": "",
+  "body": " Discuss with your group: Are there aspects of teaching mathematics at the college level that you feel are important but do not fall within one of these three dimensions?  "
+},
+{
+  "id": "ch-mkt-10",
+  "level": "2",
+  "url": "ch-mkt.html#ch-mkt-10",
+  "type": "Activity",
+  "number": "9.0.6",
+  "title": "",
+  "body": " Discuss with your group: Which of these three dimensions do you feel you are strongest at? Which do you feel that you need the most improvement in?  "
+},
+{
+  "id": "ch-mkt-11",
+  "level": "2",
+  "url": "ch-mkt.html#ch-mkt-11",
+  "type": "Activity",
+  "number": "9.0.7",
+  "title": "",
+  "body": " Discuss with your group: What are behaviors or actions taken by students that you think you should be attentive to in your professional noticing ?  "
+},
+{
+  "id": "ch-mkt-12",
+  "level": "2",
+  "url": "ch-mkt.html#ch-mkt-12",
+  "type": "Activity",
+  "number": "9.0.8",
+  "title": "",
+  "body": " Discuss with your group: How are these three dimensions of MKT related to the previous topics we have discussed in this class?  "
 },
 {
   "id": "ch-ai",
