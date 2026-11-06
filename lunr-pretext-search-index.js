@@ -520,7 +520,7 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "11",
   "title": "Creating Supportive Classrooms",
-  "body": " Creating Supportive Classrooms  TO COMPLETE.  "
+  "body": " Creating Supportive Classrooms   Pre-class activity : Read the following sections in in Equitable and Engaging Mathematics Teaching: A Guide to Disrupting Hierarchies in the Classroom by Daniel Reinholz, MAA Notes Volume #97, available here:    Page 43, intro to chapter 4.    Pages 45-51, starting at subsection 4.1.2 and ending just before subsection 4.3.1.    Pages 54-57, intro to section 4.4 and ending just before subsection 4.4.4.     "
 },
 {
   "id": "ch-teachingstatements",
