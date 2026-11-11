@@ -520,7 +520,70 @@ var ptx_lunr_docs = [
   "type": "Chapter",
   "number": "11",
   "title": "Creating Supportive Classrooms",
-  "body": " Creating Supportive Classrooms   Pre-class activity : Read the following sections in Equitable and Engaging Mathematics Teaching: A Guide to Disrupting Hierarchies in the Classroom by Daniel Reinholz, MAA Notes Volume #97, available here:    Page 43, intro to chapter 4.    Pages 45-51, starting at subsection 4.1.2 and ending just before subsection 4.3.1.    Pages 54-57, intro to section 4.4 and ending just before subsection 4.4.4.     "
+  "body": " Creating Supportive Classrooms   Pre-class activity : Read the following sections in Equitable and Engaging Mathematics Teaching: A Guide to Disrupting Hierarchies in the Classroom by Daniel Reinholz, MAA Notes Volume #97, available here:    Page 43, intro to chapter 4.    Pages 45-51, starting at subsection 4.1.2 and ending just before subsection 4.3.1.    Pages 54-57, intro to section 4.4 and ending just before subsection 4.4.4.      Discuss with your group: Do you know the names of all of your students? What is your strategy for learning names?   Reinholz writes on page 46: \"A mentor once told me that for each negative interaction we have with our students, we need three positive ones to balance it out. Recognize that many of our students have a negative association with mathematics. When we talk to them about mathematics, they may see that as a negative interaction. For such students, we need to find ample ways to build positive connections with them that aren't related to mathematics, so that they can trust us enough to take risks and move towards building a positive experience in our mathematics classroom.\"   Discuss with your group: What is your response to this quote? Do you agree with it, disagree with it, or have mixed feelings? When discussing topics that are not related to math with students, what boundaries do you need to have? Why?   Reinholz suggests asking students to write a short mathematical biography at the start of each course, and provides the following three sample prompts:   What is the story of your mathematical past? What are key events or experiences (positive or negative)? How do you feel about mathematics?    What are your goals for the course (not just passing the course)? What do you want to learn about and what do you hope to be able to do by the end of the semester?    What expertise will you bring to the course? It could be related to mathematics, or other skills that are useful to you as a mathematician. How can we create opportunities for you to use those skills?      Discuss: Which of these prompts do you think would most align with your approach to connecting with students? Why?    Discuss: Have you gathered feedback, either formal or informal, from your students? If yes, how? If not, how might you try this in future semesters?    Discuss: On page 49, Reinholz gives an example of a community agreement developed with students for a course. What did you think of this? What is your initial response to the idea of investing time in class to develop a community agreement at the start of the semester?   On page 51, Reinholz writes: \"It is important that we don't use \"mathematical convention\" as an excuse for exclusionary, ableist, racist, and sexist practices.\"  Below are two specific examples of conventions that have been identified as problematic for students and professionals in mathematics:   Gendering mathematical objects, i.e., referring to a mathematical object as he .    Writing word problems in which students are discussing math and having women or Black students in the role of the confused student more frequently than men or white students. (This is discussed further in Sara Hottinger's book Inventing the Mathematician: Gender, Race, and Our Cultural Understanding of Mathematics .)      Discuss with your group: What other aspects of mathematical culture might be problematic in these regards? What haven't you thought about regarding math classrooms that might be exclusionary?   Recent research has highlighted the role in math learning played by student sense of belonging. Sense of belonging has multiple components, as described in: Sidney, P., Braun, B., Jong, C. et al. The College Mathematics Beliefs and Belonging Survey: Instrument Development and Validation. Int. J. Res. Undergrad. Math. Ed. 11, 364-400 (2025).    Community Belonging: Feelings of inclusion and connection in the mathematical community    Individual Belonging: Feelings of acceptance and appreciation in a mathematical setting    Classroom Belonging: Relating to classmates in a mathematical setting    Collaborative Belonging: Feeling one's ideas are accepted when working with others to solve mathematical problems    Exclusion: Feelings of exclusion in a mathematical setting      Discuss: Discuss the five types of belonging above. Have you observed among your own students times where students do or do not experience one of these types of belonging? Are there one or two of these types of belonging that you feel you are more likely to notice than others?   "
+},
+{
+  "id": "ch-supportiveclassrooms-3",
+  "level": "2",
+  "url": "ch-supportiveclassrooms.html#ch-supportiveclassrooms-3",
+  "type": "Activity",
+  "number": "11.0.1",
+  "title": "",
+  "body": " Discuss with your group: Do you know the names of all of your students? What is your strategy for learning names?  "
+},
+{
+  "id": "ch-supportiveclassrooms-5",
+  "level": "2",
+  "url": "ch-supportiveclassrooms.html#ch-supportiveclassrooms-5",
+  "type": "Activity",
+  "number": "11.0.2",
+  "title": "",
+  "body": " Discuss with your group: What is your response to this quote? Do you agree with it, disagree with it, or have mixed feelings? When discussing topics that are not related to math with students, what boundaries do you need to have? Why?  "
+},
+{
+  "id": "ch-supportiveclassrooms-7",
+  "level": "2",
+  "url": "ch-supportiveclassrooms.html#ch-supportiveclassrooms-7",
+  "type": "Activity",
+  "number": "11.0.3",
+  "title": "",
+  "body": " Discuss: Which of these prompts do you think would most align with your approach to connecting with students? Why?  "
+},
+{
+  "id": "ch-supportiveclassrooms-8",
+  "level": "2",
+  "url": "ch-supportiveclassrooms.html#ch-supportiveclassrooms-8",
+  "type": "Activity",
+  "number": "11.0.4",
+  "title": "",
+  "body": " Discuss: Have you gathered feedback, either formal or informal, from your students? If yes, how? If not, how might you try this in future semesters?  "
+},
+{
+  "id": "ch-supportiveclassrooms-9",
+  "level": "2",
+  "url": "ch-supportiveclassrooms.html#ch-supportiveclassrooms-9",
+  "type": "Activity",
+  "number": "11.0.5",
+  "title": "",
+  "body": " Discuss: On page 49, Reinholz gives an example of a community agreement developed with students for a course. What did you think of this? What is your initial response to the idea of investing time in class to develop a community agreement at the start of the semester?  "
+},
+{
+  "id": "ch-supportiveclassrooms-12",
+  "level": "2",
+  "url": "ch-supportiveclassrooms.html#ch-supportiveclassrooms-12",
+  "type": "Activity",
+  "number": "11.0.6",
+  "title": "",
+  "body": " Discuss with your group: What other aspects of mathematical culture might be problematic in these regards? What haven't you thought about regarding math classrooms that might be exclusionary?  "
+},
+{
+  "id": "ch-supportiveclassrooms-14",
+  "level": "2",
+  "url": "ch-supportiveclassrooms.html#ch-supportiveclassrooms-14",
+  "type": "Activity",
+  "number": "11.0.7",
+  "title": "",
+  "body": " Discuss: Discuss the five types of belonging above. Have you observed among your own students times where students do or do not experience one of these types of belonging? Are there one or two of these types of belonging that you feel you are more likely to notice than others?  "
 },
 {
   "id": "ch-teachingstatements",
